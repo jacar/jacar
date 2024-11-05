@@ -47,19 +47,21 @@ Herramienta que genera prompts inteligentes para uso en inteligencia artificial.
 [![Edicode](https://www.webcincodev.com/blog/wp-content/uploads/2024/11/WebCincoDev-Editor-de-Codigo-Avanzado-11-04-2024_10_28_PM.png)](https://webcincodev.com/edicode/)
 Un editor de código interactivo para facilitar el desarrollo web en tiempo real.
 
-- 
+
 - [**StrongMeroPower**](https://www.strongmeropower.com) - Actualmente estoy trabajando en una **tienda virtual WooCommerce** para el comercio de productos repuestos para sonido en Colombia. Este proyecto está diseñado para proporcionar una experiencia de compra óptima y facilitar el acceso a productos de calidad.
 
 ---
-"Desarrolla Ideas Innovadoras con Nuestro Expertise Creativo ✨"
-"Diseño y Desarrollo Web a la Vanguardia 🚀✨"
-"Potencia Tu Negocio con Soluciones Creativas a Medida 🎨"
-"¡La Creatividad no Tiene Límites! Explora Nuestros Servicios 🔥"
-"Construye el Futuro con Soluciones Web Personalizadas 🌐"
-"¡Haz Realidad Tu Proyecto Digital con Expertos en Diseño! 💡"
-"Transformación Digital a Tu Alcance con Nuestros Servicios 💻🎨"
-"Tu Imaginación, Nuestra Creación. Servicios de Diseño Web 🚀"
-"Crea y Potencia tu Presencia Web con Soluciones Creativas 💥"
+- "Desarrolla Ideas Innovadoras con Nuestro Expertise Creativo ✨"
+- "Diseño y Desarrollo Web a la Vanguardia 🚀✨"
+- "Potencia Tu Negocio con Soluciones Creativas a Medida 🎨"
+- "¡La Creatividad no Tiene Límites! Explora Nuestros Servicios 🔥"
+- "Construye el Futuro con Soluciones Web Personalizadas 🌐"
+- "¡Haz Realidad Tu Proyecto Digital con Expertos en Diseño! 💡"
+- "Transformación Digital a Tu Alcance con Nuestros Servicios 💻🎨"
+- "Tu Imaginación, Nuestra Creación. Servicios de Diseño Web 🚀"
+- "Crea y Potencia tu Presencia Web con Soluciones Creativas 💥"
+
+- 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jacar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jacar&theme=dark&hide_border=false)<br/>
