@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://www.webcincodev.com/blog/wp-content/uploads/2024/11/Creation-Services.gif" alt="Servicios Creativos" width="400" />
-</p>
+## 🚀 Transformación Digital a Tu Alcance
 
+<p align="center">
+  <img src="https://github.com/jacar/jacar/raw/main/Creation%20Services.gif" alt="Servicios Creativos" width="1080" />
+</p>
 
 
 Soy **diseñador gráfico y web**, especializado en **WordPress**, con más de 10 años de experiencia en la creación y desarrollo de sitios web. He trabajado con varias **agencias en Colombia y el exterior**, ayudando a marcas a mejorar su presencia online a través de diseño web y estrategias de UX/UI.
@@ -28,13 +29,25 @@ En 2018, comencé a crear un **blog tecnológico** en el que comparto las últim
 # 💻 ## 🛠 Habilidades:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-## 💼 Algunos proyectos
+## 🚀 Algunos proyectos que he desarrollado:
 
-A continuación, te presento algunos de los proyectos que he desarrollado:
+### 1. QR Generator
+[![QR Generator](https://www.webcincodev.com/blog/wp-content/uploads/2024/11/webcincodevQR-Generador-de-Codigos-QR-11-04-2024_10_27_PM.png)](https://webcincodev.com/qr/)
+Un generador de códigos QR fácil de usar, ideal para cualquier sitio web o aplicación.
 
-- [**QR Generator**](https://webcincodev.com/qr) - Un generador de códigos QR fácil de usar, ideal para cualquier sitio web o aplicación.
-- [**Prompt Generator**](https://webcincodev.com/prompt) - Herramienta que genera prompts inteligentes para uso en inteligencia artificial.
-- [**Edicode**](https://webcincodev.com/edicode) - Un editor de código interactivo para facilitar el desarrollo web en tiempo real.
+---
+
+### 2. Prompt Generator
+[![Prompt Generator](https://www.webcincodev.com/blog/wp-content/uploads/2024/11/PromptCraft-Disena-y-Crea-Ideas-Innovadoras-11-04-2024_10_27_PM.png)](https://www.webcincodev.com/prompt/)
+Herramienta que genera prompts inteligentes para uso en inteligencia artificial.
+
+---
+
+### 3. Edicode
+[![Edicode](https://www.webcincodev.com/blog/wp-content/uploads/2024/11/WebCincoDev-Editor-de-Codigo-Avanzado-11-04-2024_10_28_PM.png)](https://webcincodev.com/edicode/)
+Un editor de código interactivo para facilitar el desarrollo web en tiempo real.
+
+- 
 - [**StrongMeroPower**](https://www.strongmeropower.com) - Actualmente estoy trabajando en una **tienda virtual WooCommerce** para el comercio de productos repuestos para sonido en Colombia. Este proyecto está diseñado para proporcionar una experiencia de compra óptima y facilitar el acceso a productos de calidad.
 
 ---
