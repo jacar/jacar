@@ -12,7 +12,8 @@ Además de mi trabajo como freelance, soy el fundador de **WebCIncodev**, un esp
 En 2018, comencé a crear un **blog tecnológico** en el que comparto las últimas **tendencias de IA**, **gadgets**, y **tecnología** en general. Mi objetivo es mantener a la comunidad actualizada sobre las innovaciones que están transformando nuestra manera de vivir y trabajar. ## 📚 Blog Tecnológico
 
 - [**Visita mi blog**](https://webcincodev.com/blog/)
-- [**Visita mi blog**](https://webcincodev.com/blog/)
+- [**Home**](https://webcincodev.com/)
+- [**Home 2**](https://webcincodev.com/)
 
 
 
