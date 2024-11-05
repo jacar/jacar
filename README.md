@@ -14,9 +14,7 @@ En 2018, comencé a crear un **blog tecnológico** en el que comparto las últim
 - [**Visita mi blog**](https://webcincodev.com/blog/)
 - [**Visita mi blog**](https://webcincodev.com/blog/)
 
-<p align="center">
-  <img src="https://www.webcincodev.com/blog/wp-content/uploads/2024/09/logo-white.svg" alt="WebCIncodev Blog" width="200" />
-</p>
+
 
 ---
 
@@ -73,16 +71,13 @@ Un editor de código interactivo para facilitar el desarrollo web en tiempo real
 ---
 [![](https://visitcount.itsvg.in/api?id=jacar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Invitame a un café
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/webcincodev) 
 
   <!-- Imagen GIF flotante con animación -->
 <p align="center">
   <img src="https://www.webcincodev.com/blog/wp-content/uploads/2024/09/pngegg.gif" alt="Imagen flotante animada" width="200" />
 </p>
-<!-- Imagen GIF animada flotante -->
-<p align="center">
-  <img src="https://s1.ezgif.com/tmp/ezgif-1-859b0d786b.gif" alt="Imagen flotante animada" width="200" />
-</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
