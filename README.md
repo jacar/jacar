@@ -49,28 +49,96 @@ Un editor de código interactivo para facilitar el desarrollo web en tiempo real
 
 - [**StrongMeroPower**](https://www.strongmeropower.com) - Actualmente estoy trabajando en una **tienda virtual WooCommerce** para el comercio de productos repuestos para sonido en Colombia. Este proyecto está diseñado para proporcionar una experiencia de compra óptima y facilitar el acceso a productos de calidad.
 
----
-- "Desarrolla Ideas Innovadoras con Nuestro Expertise Creativo ✨"
-- "Diseño y Desarrollo Web a la Vanguardia 🚀✨"
-- "Potencia Tu Negocio con Soluciones Creativas a Medida 🎨"
-- "¡La Creatividad no Tiene Límites! Explora Nuestros Servicios 🔥"
-- "Construye el Futuro con Soluciones Web Personalizadas 🌐"
-- "¡Haz Realidad Tu Proyecto Digital con Expertos en Diseño! 💡"
-- "Transformación Digital a Tu Alcance con Nuestros Servicios 💻🎨"
-- "Tu Imaginación, Nuestra Creación. Servicios de Diseño Web 🚀"
-- "Crea y Potencia tu Presencia Web con Soluciones Creativas 💥"
+## 🚀 Mensajes Destacados
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Desarrolla%20Ideas%20Innovadoras%20con%20Nuestro%20Expertise%20Creativo-%23833AB4?style=for-the-badge&labelColor=833AB4&color=ffffff" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Diseño%20y%20Desarrollo%20Web%20a%20la%20Vanguardia-%23833AB4?style=for-the-badge&labelColor=833AB4&color=ffffff" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Potencia%20Tu%20Negocio%20con%20Soluciones%20Creativas%20a%20Medida-%23833AB4?style=for-the-badge&labelColor=833AB4&color=ffffff" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/¡La%20Creatividad%20no%20Tiene%20Límites!%20Explora%20Nuestros%20Servicios-%23833AB4?style=for-the-badge&labelColor=833AB4&color=ffffff" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Construye%20el%20Futuro%20con%20Soluciones%20Web%20Personalizadas-%23833AB4?style=for-the-badge&labelColor=833AB4&color=ffffff" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/¡Haz%20Realidad%20Tu%20Proyecto%20Digital%20con%20Expertos%20en%20Diseño!-%23833AB4?style=for-the-badge&labelColor=833AB4&color=ffffff" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Transformación%20Digital%20a%20Tu%20Alcance%20con%20Nuestros%20Servicios-%23833AB4?style=for-the-badge&labelColor=833AB4&color=ffffff" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Tu%20Imaginación,%20Nuestra%20Creación.%20Servicios%20de%20Diseño%20Web-%23833AB4?style=for-the-badge&labelColor=833AB4&color=ffffff" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Crea%20y%20Potencia%20tu%20Presencia%20Web%20con%20Soluciones%20Creativas-%23833AB4?style=for-the-badge&labelColor=833AB4&color=ffffff" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 - 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jacar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jacar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jacar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jacar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<table>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://img.shields.io/badge/Top%20Contributed%20Repo-%23833AB4?style=for-the-badge&labelColor=833AB4&color=ffffff" alt="Top Contributed Repo" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api?username=jacar&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacar&theme=dark&hide_border=false" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://img.shields.io/badge/Contributions%20Summary-%23833AB4?style=for-the-badge&labelColor=833AB4&color=ffffff" alt="Contributions Summary" />
+    </td>
+  </tr>
+</table>
 
----
-[![](https://visitcount.itsvg.in/api?id=jacar&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 Invitame a un café
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/webcincodev) 
