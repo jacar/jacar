@@ -1,9 +1,13 @@
-## 🚀 Transformación Digital a Tu Alcance
 
-<p align="center">
-  <img src="https://github.com/jacar/jacar/raw/main/Creation%20Services.gif" alt="Servicios Creativos" width="1080" />
-</p>
+![Armando O Services](https://github.com/jacar/jacar/raw/main/Armando%20O%20Services%20(3)%20(1).gif)
 
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.gif" alt="👋" width="32" height="32">
+</picture>
+
+
+   ## Freelance Gráfico y Web <center>
 
 Soy **diseñador gráfico y web**, especializado en **WordPress**, con más de 10 años de experiencia en la creación y desarrollo de sitios web. He trabajado con varias **agencias en Colombia y el exterior**, ayudando a marcas a mejorar su presencia online a través de diseño web y estrategias de UX/UI.
 
@@ -11,16 +15,25 @@ Además de mi trabajo como freelance, soy el fundador de **WebCIncodev**, un esp
 
 En 2018, comencé a crear un **blog tecnológico** en el que comparto las últimas **tendencias de IA**, **gadgets**, y **tecnología** en general. Mi objetivo es mantener a la comunidad actualizada sobre las innovaciones que están transformando nuestra manera de vivir y trabajar. ## 📚 Blog Tecnológico
 
-- [**Visita mi blog**](https://webcincodev.com/blog/)
-- [**Home**](https://webcincodev.com/)
-- [**Home 2**](https://webcincodev.com/)
+[![Visita mi blog](https://img.shields.io/badge/Visita%20mi%20blog-%2300dc82.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://webcincodev.com/blog) [![Portafolio](https://img.shields.io/badge/Portafolio-%2300dc82.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.webcincodev.com/)
+[![Más sobre mí](https://img.shields.io/badge/Más%20sobre%20mí-%2300dc82.svg?style=for-the-badge&logo=info&logoColor=white)](https://www.webcincodev.com/inicio)
+
+
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" alt="🤓" width="32" height="32">
+</picture>
+
 
 
 
 ---
 
-## 🌍 Vivo en Colombia
-</p>
+## 🌍 Vivo en Colombia <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/512.gif" alt="🍻" width="32" height="32">
+</picture>
+</h1>
 
 ## 🌐 Encuéntrame en:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/webcincodev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ovallejacome) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/WebcincoDev) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/webcincodev_938) 
@@ -49,7 +62,10 @@ Un editor de código interactivo para facilitar el desarrollo web en tiempo real
 
 - [**StrongMeroPower**](https://www.strongmeropower.com) - Actualmente estoy trabajando en una **tienda virtual WooCommerce** para el comercio de productos repuestos para sonido en Colombia. Este proyecto está diseñado para proporcionar una experiencia de compra óptima y facilitar el acceso a productos de calidad.
 
-## 🚀 Mensajes Destacados
+## 🚀 Mensajes Destacados    <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44d/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44d/512.gif" alt="👍" width="32" height="32">
+</picture>
 
 <table>
   <tr>
