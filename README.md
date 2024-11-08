@@ -1,14 +1,16 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98e/512.webp" type="image/webp">
-  ------------------------------------------------------------------------- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98e/512.gif" alt="🦎" width=80" height="80">
-  </picture>
+  ----------------------------------------------------------------------- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98e/512.gif" alt="🦎" width=80" height="80">
+</picture>
 </div>
-
 
   <img src="https://www.webcincodev.com/blog/wp-content/uploads/2024/11/logo-linea2.svg" alt="Logo" style="margin-left: 10px;">
 </div>
-Freelance Diseñador gráfico y web
+
+**Siempre estoy en modo de espera / activo para ayudarlo a manejar todos los requisitos de su negocio.**  📞 (57) 3052891719  **¿Trabajamo?*
+
+
 
 ![Armando O Services](https://github.com/jacar/jacar/raw/main/Armando%20O%20Services%20(3)%20(1).gif)
 
@@ -18,7 +20,8 @@ Freelance Diseñador gráfico y web
 </picture>
 
 
-   ## Freelance Gráfico y Web <center>
+Freelance Gráfico y Web <hr style="border: 2px solid #58b579;">
+
 
 Soy **diseñador gráfico y web**, especializado en **WordPress**, con más de 10 años de experiencia en la creación y desarrollo de sitios web. He trabajado con varias **agencias en Colombia y el exterior**, ayudando a marcas a mejorar su presencia online a través de diseño web y estrategias de UX/UI.
 
