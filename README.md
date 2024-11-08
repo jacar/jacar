@@ -1,3 +1,14 @@
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98e/512.webp" type="image/webp">
+  ---------------------------------------------------------------------------  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98e/512.gif" alt="🦎" width=80" height="80">
+  </picture>
+</div>
+
+
+  <img src="https://www.webcincodev.com/blog/wp-content/uploads/2024/11/logo-linea2.svg" alt="Logo" style="margin-left: 10px;">
+</div>
+Freelance Diseñador gráfico y web
 
 ![Armando O Services](https://github.com/jacar/jacar/raw/main/Armando%20O%20Services%20(3)%20(1).gif)
 
