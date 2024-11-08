@@ -8,19 +8,25 @@
   <img src="https://www.webcincodev.com/blog/wp-content/uploads/2024/11/logo-linea2.svg" alt="Logo" style="margin-left: 10px;">
 </div>
 
-**Siempre estoy en modo de espera / activo para ayudarlo a manejar todos los requisitos de su negocio.**  📞 (57) 3052891719  **¿Trabajamo?*
+**Siempre estoy en modo de espera / activo para ayudarlo a manejar todos los requisitos de su negocio.**  📞 (57) 3052891719  **Disponible para trabajar*
 
 
 
 ![Armando O Services](https://github.com/jacar/jacar/raw/main/Armando%20O%20Services%20(3)%20(1).gif)
 
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.gif" alt="👋" width="32" height="32">
-</picture>
 
 
-Freelance Gráfico y Web <hr style="border: 2px solid #58b579;">
+
+<h1 align="center">
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
+</picture>  
+  # Freelance Gráfico y Web
+</h1>
+
+<br>
+
 
 
 Soy **diseñador gráfico y web**, especializado en **WordPress**, con más de 10 años de experiencia en la creación y desarrollo de sitios web. He trabajado con varias **agencias en Colombia y el exterior**, ayudando a marcas a mejorar su presencia online a través de diseño web y estrategias de UX/UI.
