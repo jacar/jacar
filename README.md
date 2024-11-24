@@ -175,11 +175,20 @@ En 2018, comencé a crear un **blog tecnológico** en el que comparto las últim
 
 <a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=41986369" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="655" height="auto">
-    <img alt="Performance Stats of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="655" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="1200" height="auto">
+    <img alt="Performance Stats of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width1200" height="auto">
+  </picture>
+</a>
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-company?repo_id=41986369&activity=stars" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?repo_id=41986369&activity=stars&image_size=auto&color_scheme=dark" width="1200" height="auto">
+    <img alt="Company Affiliation of pingcap/tidb" src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?repo_id=41986369&activity=stars&image_size=auto&color_scheme=light" width=1200" height="auto">
   </picture>
 </a>
 
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
   ## 💰 Invitame a un café
