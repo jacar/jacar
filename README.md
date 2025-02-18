@@ -5,14 +5,13 @@
 </picture>
 </div>
 
-  <img src="https://www.webcincodev.com/blog/wp-content/uploads/2024/11/logo-linea2.svg" alt="Logo" style="margin-left: 10px;">
+  <img src="[https://www.webcincodev.com/blog/wp-content/uploads/2024/11/logo-linea2.svg](https://www.webcincodev.com/blog/wp-content/uploads/2025/02/yo.png)" alt="Logo" style="margin-left: 10px;">
 </div>
 
 **Siempre estoy en modo de espera / activo para ayudarlo a manejar todos los requisitos de su negocio.**  📞 (57) 3052891719  **Disponible para trabajar*
 
 
 
-![Armando O Services]([https://github.com/jacar/jacar/raw/main/Armando%20O%20Services%20(3)%20(1).gif](https://media.licdn.com/dms/image/v2/D4E16AQHFxORtYfBBmg/profile-displaybackgroundimage-shrink_350_1400/B4EZUWYnY2HUAY-/0/1739837307044?e=1745452800&v=beta&t=hfHlW0U-BK8A4EC8PMD1tlOGUJwtmwPKnhskXjnbL8I))
 
 
 
