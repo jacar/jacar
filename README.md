@@ -12,7 +12,7 @@
 
 
 
-![Armando O Services](https://github.com/jacar/jacar/raw/main/Armando%20O%20Services%20(3)%20(1).gif)
+![Armando O Services]([https://github.com/jacar/jacar/raw/main/Armando%20O%20Services%20(3)%20(1).gif](https://media.licdn.com/dms/image/v2/D4E16AQHFxORtYfBBmg/profile-displaybackgroundimage-shrink_350_1400/B4EZUWYnY2HUAY-/0/1739837307044?e=1745452800&v=beta&t=hfHlW0U-BK8A4EC8PMD1tlOGUJwtmwPKnhskXjnbL8I))
 
 
 
