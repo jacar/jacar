@@ -1,4 +1,7 @@
-![Imagen de fondo](https://raw.githubusercontent.com/jacar/jacar/refs/heads/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
+<body style="background-color:#f0f0f0;">
+  <h1>Bienvenido a mi perfil de GitHub</h1>
+  <p>¡Hola! Soy un desarrollador apasionado por...</p>
+</body>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <picture>
