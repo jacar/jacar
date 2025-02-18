@@ -76,7 +76,7 @@ En 2018, comencé a crear un **blog tecnológico** en el que comparto las últim
 
 | **Generador Prompt**      | **Generador QR**        |
 |---------------------------|-------------------------|
-| [![Conversor de Divisas([https://www.webcincodev.com/blog/wp-content/uploads/2024/09/logo-white.svg](https://www.webcincodev.com/blog/wp-content/uploads/2025/02/Generador-QR-4.png))](https://webcincodev.com/prompt/) | [![Generador QR](https://www.webcincodev.com/blog/wp-content/uploads/2024/11/CarStructure.png)](https://webcincodev.com/qr/) |
+| [![Conversor de Divisas(https://www.webcincodev.com/blog/wp-content/uploads/2024/09/logo-white.svg](https://www.webcincodev.com/blog/wp-content/uploads/2025/02/Generador-QR-4.png))](https://webcincodev.com/prompt/) | [![Generador QR](https://www.webcincodev.com/blog/wp-content/uploads/2024/11/CarStructure.png)](https://webcincodev.com/qr/) |
 | **Edicode**               | **Herramientas IA**     |
 | [![Edicode](https://www.webcincodev.com/blog/wp-content/uploads/2024/09/Transforma-tu-Vision-en-Realidad.gif)](https://webcincodev.com/edicode/) | [![Herramientas IA](https://www.webcincodev.com/blog/wp-content/uploads/2024/09/IA.png)](https://we5.space) |
 
