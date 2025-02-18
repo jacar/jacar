@@ -74,11 +74,20 @@ En 2018, comencé a crear un **blog tecnológico** en el que comparto las últim
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
 </picture> Algunos proyectos personales:
 
-| **Generador Prompt**      | **Generador QR**        |
-|---------------------------|-------------------------|
-| [![Conversor de Divisas(https://www.webcincodev.com/blog/wp-content/uploads/2024/09/logo-white.svg]([https://www.webcincodev.com/blog/wp-content/uploads/2025/02/Generador-QR-4.png](https://webcindivisas.netlify.app/)))]([https://webcincodev.com/prompt/](https://webcindivisas.netlify.app/) | [![Generador QR](https://www.webcincodev.com/blog/wp-content/uploads/2024/11/CarStructure.png)](https://webcincodev.com/qr/) |
-| **Edicode**               | **Herramientas IA**     |
-| [![Edicode](https://www.webcincodev.com/blog/wp-content/uploads/2024/09/Transforma-tu-Vision-en-Realidad.gif)](https://webcincodev.com/edicode/) | [![Herramientas IA](https://www.webcincodev.com/blog/wp-content/uploads/2024/09/IA.png)](https://we5.space) |
+## Mis Proyectos
+
+### Conversor de Divisas
+[![Conversor de Divisas](https://camo.githubusercontent.com/0275eb030493d1551a31439c495c2e0dca6e436b6114be7741473643a1b8cf50/68747470733a2f2f7777772e77656263696e636f6465762e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032352f30322f47656e657261646f722d51522d342e706e67)](https://webcindivisas.netlify.app/)
+
+### Api Peliculas
+[![Api Peliculas](https://www.webcincodev.com/blog/wp-content/uploads/2025/02/Generador-QR-3.png)](https://webcinpeli.netlify.app/)
+
+### Edicode
+[![Edicode](https://www.webcincodev.com/blog/wp-content/uploads/2025/02/Generador-QR-1.png)](https://webcincodev.com/edicode)
+
+### Generador QR
+[![Generador QR](https://www.webcincodev.com/blog/wp-content/uploads/2025/02/Generador-QR.png)](https://www.webcincodev.com/qr/)
+
 
 
 
