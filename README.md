@@ -89,7 +89,7 @@ En 2018, comencé a crear un **blog tecnológico** en el que comparto las últim
 [![Generador QR](https://www.webcincodev.com/blog/wp-content/uploads/2025/02/Generador-QR.png)](https://www.webcincodev.com/qr/)
 
 ### SafeWeb
-[![Analiza Web](https://www.webcincodev.com/blog/wp-content/uploads/2025/02/SAFEWEB-1.png)](https://safeweb5.vercel.app/)
+[![Analiza Web](https://www.webcincodev.com/blog/wp-content/uploads/2025/02/SAFEWEB-2.png)](https://safeweb5.vercel.app/)
 
 
 
