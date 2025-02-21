@@ -5,9 +5,7 @@
 
   <picture>
    ![Descripción de la imagen](https://raw.githubusercontent.com/jacar/jacar/refs/heads/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
-<p align="center">
-  <a href="https://webcincodev.com/blog">
-    <img src="https://img.shields.io/badge/Visita%20mi%20blog-%237D00DC.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="Visita mi blog">
+
   </a>
   <br>
   <a href="https://www.webcincodev.com/">
