@@ -1,9 +1,6 @@
-<div style="display: flex; justify-content: center; gap: 15px; margin-top: 10px;">
-  <a href="https://armandomi.space" style="background-color: #6A0DAD; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px;">🔗</a>
-  <a href="https://webcincodev.com/blog" style="background-color: #6A0DAD; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px;">📖</a>
-  <a href="https://www.linkedin.com/in/webcincodev/" style="background-color: #6A0DAD; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px;">🔗</a>
-</div>
-
+[![Sobre mí](https://img.shields.io/badge/Sobre%20mí-%236A0DAD.svg?logo=firefox&logoColor=white)](https://armandomi.space)  
+[![Blog](https://img.shields.io/badge/Blog-%236A0DAD.svg?logo=wordpress&logoColor=white)](https://webcincodev.com/blog)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%236A0DAD.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webcincodev/)  
 
 
 
