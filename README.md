@@ -5,8 +5,8 @@
   <p>¡Hola! Soy un desarrollador apasionado por WORDPRESS</p>
 
   [![Más sobre mí](https://img.shields.io/badge/Más%20sobre%20mí-%2300dc82.svg?style=for-the-badge&logo=info&logoColor=white)](https://armandomi.space)
+<hr style="height: 4px; background: linear-gradient(90deg, #ff00ff, #00ffff); border: none; box-shadow: 0 0 10px #ff00ff, 0 0 20px #00ffff;">
 
-  
 </body>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
