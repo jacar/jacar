@@ -5,17 +5,7 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 50vh;">
   <picture>
    ![Descripción de la imagen](https://raw.githubusercontent.com/jacar/jacar/refs/heads/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
-<p align="center">
-  <a href="https://armandomi.space">
-    <img src="https://img.shields.io/badge/Más%20sobre%20mí-%237D00DC.svg?style=for-the-badge&logo=info&logoColor=white" alt="Más sobre mí">
-  </a>
-</p>
 
-<p align="center">
-  <hr style="height: 4px; width: 50%; background: linear-gradient(90deg, #7D00DC, #DC00A0); border: none; box-shadow: 0 0 10px #7D00DC, 0 0 20px #DC00A0;">
-</p>
-[![Visita mi blog](https://img.shields.io/badge/Visita%20mi%20blog-%2300dc82.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://webcincodev.com/blog) [![Portafolio](https://img.shields.io/badge/Portafolio-%2300dc82.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.webcincodev.com/)
-[![Más sobre mí](https://img.shields.io/badge/Más%20sobre%20mí-%2300dc82.svg?style=for-the-badge&logo=info&logoColor=white)](https://www.webcincodev.com/inicio)
 
 </picture>
 </div>
