@@ -1,6 +1,6 @@
-[![Sobre mí](https://img.shields.io/badge/Sobre%20mí-%236A0DAD.svg?logo=firefox&logoColor=white)](https://armandomi.space)  
-[![Blog](https://img.shields.io/badge/Blog-%236A0DAD.svg?logo=wordpress&logoColor=white)](https://webcincodev.com/blog)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%236A0DAD.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webcincodev/)  
+[![Sobre mí](https://img.shields.io/badge/Sobre%20mí-%236A0DAD.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://armandomi.space) 
+[![Blog](https://img.shields.io/badge/Blog-%236A0DAD.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://webcincodev.com/blog) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%236A0DAD.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webcincodev/)  
 
 
 
