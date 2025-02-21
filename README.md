@@ -1,4 +1,7 @@
-<div align="right">
+
+<body style="background-color:#f0f0f0;">
+  <h1>Bienvenido a mi perfil de GitHub</h1>
+  <p>¡Hola! Soy un desarrollador apasionado por WORDPRESS</p> ------------------<div align="right">
 
 [![Sobre mí](https://img.shields.io/badge/Sobre%20mí-%236A0DAD.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://armandomi.space) 
 [![Blog](https://img.shields.io/badge/Blog-%236A0DAD.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://webcincodev.com/blog) 
@@ -6,13 +9,6 @@
 
 </div>
 
-
-
-
-
-<body style="background-color:#f0f0f0;">
-  <h1>Bienvenido a mi perfil de GitHub</h1>
-  <p>¡Hola! Soy un desarrollador apasionado por WORDPRESS</p>
 </body>
 
 ![Banner](https://raw.githubusercontent.com/jacar/jacar/refs/heads/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
