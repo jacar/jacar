@@ -1,6 +1,7 @@
 
 <body style="background-color:#f0f0f0;">
-  <h1>Bienvenido a mi perfil de GitHub</h1>
+  <h1>Bienvenido a mi perfil de GitHub</h1>    <span style="color:#6A0DAD; font-size:24px;">Bienvenido a mi perfil de GitHub</span>
+
   <p>¡Hola! Soy un desarrollador apasionado por WORDPRESS</p> <div align="right">
 
 <div align="right">
