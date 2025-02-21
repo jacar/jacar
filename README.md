@@ -2,6 +2,7 @@
   <h1>Bienvenido a mi perfil de GitHub</h1>
   <p>¡Hola! Soy un desarrollador apasionado por WORDPRESS</p>
 </body>
+
 ![Banner](https://raw.githubusercontent.com/jacar/jacar/refs/heads/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
 
 
