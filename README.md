@@ -1,4 +1,15 @@
 
+<div style="text-align: center;">
+
+  <h1>¡Hola! Soy un desarrollador apasionado por <span style="color: #6A0DAD;">WORDPRESS</span></h1>
+
+  <div style="display: flex; justify-content: center; gap: 15px; margin-top: 10px;">
+    <a href="https://armandomi.space" style="background-color: #6A0DAD; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">+ Sobre mí</a>
+    <a href="https://webcincodev.com/blog" style="background-color: #6A0DAD; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Blog</a>
+    <a href="https://www.linkedin.com/in/webcincodev/" style="background-color: #6A0DAD; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">LinkedIn</a>
+  </div>
+
+</div>
 
 
 <body style="background-color:#f0f0f0;">
