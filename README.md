@@ -3,13 +3,8 @@
   <p>¡Hola! Soy un desarrollador apasionado por WORDPRESS</p>
 </body>
    ![Descripción de la imagen](https://raw.githubusercontent.com/jacar/jacar/refs/heads/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
+<img src="https://raw.githubusercontent.com/jacar/jacar/refs/heads/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png" alt="Banner" style="width: 100%; display: block;">
 
-</picture>
-</div>
-
-(https://raw.githubusercontent.com/jacar/jacar/refs/heads/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
-
-</div>
 
 **Siempre estoy en modo de espera / activo para ayudarlo a manejar todos los requisitos de su negocio.**  📞 (57) 3052891719  **Disponible para trabajar*
 
