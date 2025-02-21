@@ -5,11 +5,7 @@
    ![Descripción de la imagen](https://raw.githubusercontent.com/jacar/jacar/refs/heads/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
 
   </a>
-  <br>
-  <a href="https://www.webcincodev.com/">
-    <img src="https://img.shields.io/badge/Portafolio-%237D00DC.svg?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio">
-  </a>
-  <br>
+ 
   <a href="https://www.webcincodev.com/inicio">
     <img src="https://img.shields.io/badge/Más%20sobre%20mí-%237D00DC.svg?style=for-the-badge&logo=info&logoColor=white" alt="Más sobre mí">
   </a>
