@@ -1,15 +1,4 @@
 
-<div>
-  <img src="https://raw.githubusercontent.com/jacar/jacar/refs/heads/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png" alt="Banner" style="width: 100%; display: block;">
-</div>
-
-
-  <div>
-    <img src="https://raw.githubusercontent.com/jacar/jacar/refs/heads/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png" alt="Banner" style="width: 100%; display: block;">
-  </div>
-
-</div>
-
 
 
 <body style="background-color:#f0f0f0;">
