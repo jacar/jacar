@@ -1,13 +1,3 @@
-<div style="display: flex; align-items: center; gap: 20px;">
-
-  <div>
-    <h1>¡Hola! Soy un desarrollador apasionado por <span style="color: #6A0DAD;">WORDPRESS</span></h1>
-    <a href="https://armandomi.space" style="background-color: #6A0DAD; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">+ Sobre mí</a>
-    <a href="https://webcincodev.com/blog" style="background-color: #6A0DAD; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">Blog</a>
-    <a href="https://www.linkedin.com/in/webcincodev/" style="background-color: #6A0DAD; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">LinkedIn</a>
-  </div>
-
-</div>
 
 <div>
   <img src="https://raw.githubusercontent.com/jacar/jacar/refs/heads/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png" alt="Banner" style="width: 100%; display: block;">
