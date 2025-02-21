@@ -14,7 +14,8 @@
 <p align="center">
   <hr style="height: 4px; width: 50%; background: linear-gradient(90deg, #7D00DC, #DC00A0); border: none; box-shadow: 0 0 10px #7D00DC, 0 0 20px #DC00A0;">
 </p>
-
+[![Visita mi blog](https://img.shields.io/badge/Visita%20mi%20blog-%2300dc82.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://webcincodev.com/blog) [![Portafolio](https://img.shields.io/badge/Portafolio-%2300dc82.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.webcincodev.com/)
+[![Más sobre mí](https://img.shields.io/badge/Más%20sobre%20mí-%2300dc82.svg?style=for-the-badge&logo=info&logoColor=white)](https://www.webcincodev.com/inicio)
 
 </picture>
 </div>
@@ -44,8 +45,7 @@ Además de mi trabajo como freelance, soy el fundador de **WebCIncodev**, un esp
 
 En 2018, comencé a crear un **blog tecnológico** en el que comparto las últimas **tendencias de IA**, **gadgets**, y **tecnología** en general. Mi objetivo es mantener a la comunidad actualizada sobre las innovaciones que están transformando nuestra manera de vivir y trabajar. ## 📚 Blog Tecnológico
 
-[![Visita mi blog](https://img.shields.io/badge/Visita%20mi%20blog-%2300dc82.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://webcincodev.com/blog) [![Portafolio](https://img.shields.io/badge/Portafolio-%2300dc82.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.webcincodev.com/)
-[![Más sobre mí](https://img.shields.io/badge/Más%20sobre%20mí-%2300dc82.svg?style=for-the-badge&logo=info&logoColor=white)](https://www.webcincodev.com/inicio)
+
 
 
 <!-- Copy-paste in your Readme.md file -->
