@@ -6,6 +6,7 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <picture>
    ![Descripción de la imagen](https://raw.githubusercontent.com/jacar/jacar/refs/heads/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
+[Sobre mí](#sobre-mi)
 
 
 </picture>
