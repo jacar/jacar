@@ -7,7 +7,7 @@
 
 <div align="right">
 
-<a href="https://armandomi.space" target="_blank">
+<a href="https://www.armandomi.space/" target="_blank">
   <img src="https://img.shields.io/badge/Sobre%20mí-%236A0DAD.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Sobre mí">
 </a>
 
